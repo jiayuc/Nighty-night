@@ -41,7 +41,7 @@ Android
 8.    Setting page - set clock, set message notification (whether show on window), add friends, logout
 
 ### Workflow description:
-![](/notes/workFlow.jpg?raw=true)
+![](/design/uiDesign/ui/workFlow.jpg?raw=true)
 
 ## Proposal:
 ## - background: 
